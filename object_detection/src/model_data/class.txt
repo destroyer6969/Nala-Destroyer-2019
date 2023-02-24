@@ -1,0 +1,6 @@
+ball
+redcanbuoy
+greencanbuoy
+anothercanbuoy
+number
+sevensegment

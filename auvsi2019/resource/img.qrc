@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+        <file>images/Barunastra.png</file>
+        <file>images/rocket.png</file>
+        <file>images/boat.png</file>
+        <file>images/small_boat.png</file>
+        <file>images/danau8.jpg</file>
+        <file>images/bravo.jpg</file>
+        <file>images/alpha.png</file>
+        <file>images/bravo.png</file>
+        <file>images/charlie.png</file>
+        <file>images/delta.png</file>
+        <file>images/roll_ship.png</file>
+        <file>images/pitch_ship.png</file>
+</qresource>
+</RCC>
